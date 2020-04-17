@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.vendors.e7b23d4838f3ecd2a09c.bundle.js"
   },
   {
-    "revision": "2d24af90b81e7f727ec77e27aacdfc87",
+    "revision": "a2563b9df61cc96d5697f651d0392eea",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaindex.html"
   },
   {

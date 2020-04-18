@@ -60,6 +60,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/devassets/icons/icons8-game-controller-16.png"
   },
   {
+    "revision": "2f6c49ad5b0398202a8ed4a64e09a197",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devassets/mage.png"
+  },
+  {
+    "revision": "e53684da9a3d861688e8e10ad450563b",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devassets/ranger_cape.png"
+  },
+  {
+    "revision": "78742f963de8fe6d853faab6663e4082",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devassets/ranger_no_cape.png"
+  },
+  {
     "revision": "8e5730537b71b45f419f091c05352fd6",
     "url": "/educational-game-project-team-12-jason-and-shabir/devassets/sprites/mage_battle.png"
   },
@@ -68,16 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/devassets/sprites/ranger_battle.png"
   },
   {
-    "revision": "a012725f430bfdd546d77aa21ca7d2e8",
-    "url": "/educational-game-project-team-12-jason-and-shabir/devassets/sprites/warrior.png"
-  },
-  {
-    "revision": "2b6933ffa0f7497e881d236f45e3d7b9",
+    "revision": "c5a71df44292585d15793073deb129ec",
     "url": "/educational-game-project-team-12-jason-and-shabir/devassets/sprites/warrior_battle.png"
   },
   {
-    "revision": "c5a71df44292585d15793073deb129ec",
-    "url": "/educational-game-project-team-12-jason-and-shabir/devassets/sprites/warrior_battle2.png"
+    "revision": "28593e940f158cebd49f4010f36c8540",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devassets/sprites/warrior_death.png"
   },
   {
     "revision": "3f71cd8926786762419271b6df8a8518",
@@ -88,19 +96,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/devassets/start_screen_text.png"
   },
   {
+    "revision": "23c59854eee1d06287221ba87f5ba6fe",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devassets/warrior.png"
+  },
+  {
     "revision": "53cefca2a0f75654486b180949686165",
     "url": "/educational-game-project-team-12-jason-and-shabir/devfavicon.ico"
   },
   {
-    "revision": "d8ca53fc61a78289dfa1",
-    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.main.2af5c0451abd253aced5.bundle.js"
+    "revision": "1577eda6aecc2d2a05b5",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.main.f356085a347afb70c635.bundle.js"
   },
   {
-    "revision": "6096d86963972c600fe6",
-    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.vendors.70b3aa7982cc5a9197a1.bundle.js"
+    "revision": "90a05e724ad9b00875cd",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.vendors.81ec42ea17aee788c88b.bundle.js"
   },
   {
-    "revision": "4bcd70f7a65f5bdd94ce876cb299139e",
+    "revision": "c5c7b82d59a24e22087662b9caf0b241",
     "url": "/educational-game-project-team-12-jason-and-shabir/devindex.html"
   },
   {

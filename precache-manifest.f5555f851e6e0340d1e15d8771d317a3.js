@@ -60,6 +60,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/icons/icons8-game-controller-16.png"
   },
   {
+    "revision": "2f6c49ad5b0398202a8ed4a64e09a197",
+    "url": "assets/mage.png"
+  },
+  {
+    "revision": "e53684da9a3d861688e8e10ad450563b",
+    "url": "assets/ranger_cape.png"
+  },
+  {
+    "revision": "78742f963de8fe6d853faab6663e4082",
+    "url": "assets/ranger_no_cape.png"
+  },
+  {
     "revision": "8e5730537b71b45f419f091c05352fd6",
     "url": "assets/sprites/mage_battle.png"
   },
@@ -68,16 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/sprites/ranger_battle.png"
   },
   {
-    "revision": "a012725f430bfdd546d77aa21ca7d2e8",
-    "url": "assets/sprites/warrior.png"
-  },
-  {
-    "revision": "2b6933ffa0f7497e881d236f45e3d7b9",
+    "revision": "c5a71df44292585d15793073deb129ec",
     "url": "assets/sprites/warrior_battle.png"
   },
   {
-    "revision": "c5a71df44292585d15793073deb129ec",
-    "url": "assets/sprites/warrior_battle2.png"
+    "revision": "28593e940f158cebd49f4010f36c8540",
+    "url": "assets/sprites/warrior_death.png"
   },
   {
     "revision": "3f71cd8926786762419271b6df8a8518",
@@ -88,16 +96,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/start_screen_text.png"
   },
   {
+    "revision": "23c59854eee1d06287221ba87f5ba6fe",
+    "url": "assets/warrior.png"
+  },
+  {
     "revision": "53cefca2a0f75654486b180949686165",
     "url": "favicon.ico"
   },
   {
-    "revision": "a2211d5154c9aa6e5207b9da89c355bf",
+    "revision": "df7d4443b6340b0a89b7204971ebeb21",
     "url": "index.html"
   },
   {
-    "revision": "d9be15e708f2f6de696b",
-    "url": "main.365f8b00ca1528a8678d.bundle.js"
+    "revision": "a5a373a29ac28b96ddc2",
+    "url": "main.4961fc8a43e5a92da9dd.bundle.js"
   },
   {
     "revision": "4cb13213f580a9954da2d3f2f7dc4fed",
@@ -108,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "sw.js"
   },
   {
-    "revision": "6096d86963972c600fe6",
-    "url": "vendors.70b3aa7982cc5a9197a1.bundle.js"
+    "revision": "90a05e724ad9b00875cd",
+    "url": "vendors.81ec42ea17aee788c88b.bundle.js"
   }
 ]);

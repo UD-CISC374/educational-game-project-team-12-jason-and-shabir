@@ -88,20 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/start_screen_text.png"
   },
   {
-    "revision": "a9bb3df92a5153a2c9d2482e25d3e02a",
-    "url": "b43afc7c3e8c4f9b8770bc66da38f6b8.png"
-  },
-  {
     "revision": "53cefca2a0f75654486b180949686165",
     "url": "favicon.ico"
   },
   {
-    "revision": "070ac417455c79fbad085e8907c3cca3",
+    "revision": "7aff9c083d218d94029e5cb5de0c284b",
     "url": "index.html"
   },
   {
-    "revision": "8e732a94b49d18bf248b",
-    "url": "main.60062aed5b99e0450407.bundle.js"
+    "revision": "3ac2aacc0905bb0f58a2",
+    "url": "main.b289ce12c5835bfc58f6.bundle.js"
   },
   {
     "revision": "4cb13213f580a9954da2d3f2f7dc4fed",

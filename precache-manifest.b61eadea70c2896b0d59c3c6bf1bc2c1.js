@@ -92,7 +92,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "04567cf1c8caa15b92ed7cc5fb11eae7",
+    "revision": "274e865c95096e72a18f2e46a5e124c8",
+    "url": "game.css"
+  },
+  {
+    "revision": "ab7481fe273e33abfc6afef70b0d4da7",
     "url": "index.html"
   },
   {

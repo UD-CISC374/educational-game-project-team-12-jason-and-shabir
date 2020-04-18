@@ -92,6 +92,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphafavicon.ico"
   },
   {
+    "revision": "274e865c95096e72a18f2e46a5e124c8",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphagame.css"
+  },
+  {
     "revision": "ee242d24c0f4713d570f",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.main.f0d09716a23930fd42d2.bundle.js"
   },

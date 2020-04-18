@@ -88,16 +88,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/start_screen_text.png"
   },
   {
+    "revision": "a9bb3df92a5153a2c9d2482e25d3e02a",
+    "url": "b43afc7c3e8c4f9b8770bc66da38f6b8.png"
+  },
+  {
     "revision": "53cefca2a0f75654486b180949686165",
     "url": "favicon.ico"
   },
   {
-    "revision": "2b2ec8bb9b138a6c09f55ee1ffb2ea2b",
+    "revision": "7cca4bda013c05f08ad524ecec1960d4",
     "url": "index.html"
   },
   {
-    "revision": "9fb714ccd55c9a1f28f5",
-    "url": "main.cdbbefc0c1b1847a0542.bundle.js"
+    "revision": "b90ab530afaba4df3bfc",
+    "url": "main.07b4bdf738ce73f8da4f.bundle.js"
   },
   {
     "revision": "4cb13213f580a9954da2d3f2f7dc4fed",
@@ -108,7 +112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "sw.js"
   },
   {
-    "revision": "1a61d15e2f5477aaf183",
-    "url": "vendors.e7b23d4838f3ecd2a09c.bundle.js"
+    "revision": "c45d23f47e1785c643e1",
+    "url": "vendors.46925df6bfc15bdbc568.bundle.js"
   }
 ]);

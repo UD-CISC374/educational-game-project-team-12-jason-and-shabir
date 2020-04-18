@@ -88,19 +88,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/devassets/start_screen_text.png"
   },
   {
+    "revision": "a9bb3df92a5153a2c9d2482e25d3e02a",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devb43afc7c3e8c4f9b8770bc66da38f6b8.png"
+  },
+  {
     "revision": "53cefca2a0f75654486b180949686165",
     "url": "/educational-game-project-team-12-jason-and-shabir/devfavicon.ico"
   },
   {
-    "revision": "3f95b6a1c01bf933c760",
-    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.main.9fd994f1b3bc1cfa817a.bundle.js"
+    "revision": "786deedd32cf05ce401b",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.main.67bd4a7622bf9e668598.bundle.js"
   },
   {
-    "revision": "1a61d15e2f5477aaf183",
-    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.vendors.e7b23d4838f3ecd2a09c.bundle.js"
+    "revision": "c45d23f47e1785c643e1",
+    "url": "/educational-game-project-team-12-jason-and-shabir/devgen.vendors.46925df6bfc15bdbc568.bundle.js"
   },
   {
-    "revision": "a0d879ec3cd85c014e0421057d07ca72",
+    "revision": "98835d61558c6209faa344c91f73be3b",
     "url": "/educational-game-project-team-12-jason-and-shabir/devindex.html"
   },
   {

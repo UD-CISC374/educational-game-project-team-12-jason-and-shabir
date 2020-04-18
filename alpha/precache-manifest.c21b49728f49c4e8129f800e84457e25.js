@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/start_screen_text.png"
   },
   {
-    "revision": "53cefca2a0f75654486b180949686165",
-    "url": "/educational-game-project-team-12-jason-and-shabir/alphafavicon.ico"
+    "revision": "274e865c95096e72a18f2e46a5e124c8",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphacss/game.css"
   },
   {
-    "revision": "274e865c95096e72a18f2e46a5e124c8",
-    "url": "/educational-game-project-team-12-jason-and-shabir/alphagame.css"
+    "revision": "53cefca2a0f75654486b180949686165",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphafavicon.ico"
   },
   {
     "revision": "ee242d24c0f4713d570f",

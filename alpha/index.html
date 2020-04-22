@@ -18,9 +18,8 @@
     <meta name="apple-mobile-web-app-title" content="Code Warrior" />
     <meta name="msapplication-starturl" content="./" />
 
-    <!--<link rel="stylesheet" href="node_modules/codemirror/lib/codemirror.css">
-    <link rel="stylesheet" href="node_modules/codemirror/theme/lucario.css">
-    <link rel="stylesheet" href="src/css/game.css" >-->
+    <span style="font-family:'Aniron'"></span>
+    <span style="font-family:'Aniron'"></span>
 
     <link rel="icon" type="image/png" sizes="192x192" href="./icons/icons-192.png" />
     <link rel="apple-touch-icon" type="image/png" sizes="192x192" href="./icons/icons-192.png" />
@@ -44,12 +43,20 @@
     </script> -->
 
     <style>
+      @font-face {
+        font-family: "Aniron";
+        src: url(../assets/font/aniron/anirm___.ttf) format("truetype");
+      }
+      @font-face {
+        font-family: "FontleroyBrownNF";
+        src: url("./assets/font/fontleroybrown/FontleroyBrownNF.ttf") format("truetype");
+      }
       #gameRules{
         position: absolute;
         background-color:rgb(49, 46, 46);
-        background-image: url("assets/dirt-clipart-background-15.png");
-        background-size: cover;
-        background-repeat: no-repeat;
+        background-image: url("./assets/ui/dirt-clipart-background-15.png"), url("./assets/ui/wood.jpg");
+        background-size: cover, auto;
+        background-repeat: no-repeat, repeat;
         font-family: 'Courier New', Courier, monospace;
         border-bottom: solid white;
         width: 100%;
@@ -67,15 +74,15 @@
         <textarea name="Code" id="code"></textarea>
       </div>
       <div id="buttonContainer">
-        <button id="apply">Apply</button>
+        <button id="apply">Submit</button>
         <button id="reset">Reset</button>
       </div>
   </div>
   <div id ="rightScreen">
     <div id="gameRules">
-      <div id = "book">Hello</div>
+      <div id = "book"></div>
     </div>
     <div id="console"></div>  
   </div>
-<script type="text/javascript" src="/educational-game-project-team-12-jason-and-shabir/alpha/gen.vendors.70b3aa7982cc5a9197a1.bundle.js"></script><script type="text/javascript" src="/educational-game-project-team-12-jason-and-shabir/alpha/gen.main.f2462b45e73f1833e161.bundle.js"></script></body>
+<script type="text/javascript" src="/educational-game-project-team-12-jason-and-shabir/alpha/gen.vendors.0dbedc62be3c6e91f279.bundle.js"></script><script type="text/javascript" src="/educational-game-project-team-12-jason-and-shabir/alpha/gen.main.83c9abc5933baa8dfac6.bundle.js"></script></body>
 </html>

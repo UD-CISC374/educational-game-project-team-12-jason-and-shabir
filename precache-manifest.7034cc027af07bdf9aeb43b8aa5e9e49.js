@@ -496,7 +496,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/start_screen_text.png"
   },
   {
-    "revision": "42af6644b7ec7fbd088fec732542ffce",
+    "revision": "4f02a0fa5e868e7da3b1d8bb578bbd35",
     "url": "assets/text/battle.txt"
   },
   {
@@ -528,12 +528,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "867ea2bdb7e0008d917a251fc3733645",
+    "revision": "ab9098e00fd9be2c3e7d0140193def7a",
     "url": "index.html"
   },
   {
-    "revision": "0782ec4f99f5d8bd9464",
-    "url": "main.bf21244d0a7c709d964d.bundle.js"
+    "revision": "9e152b94544f2cd6449f",
+    "url": "main.af9ede61bf3da3bc0174.bundle.js"
   },
   {
     "revision": "4cb13213f580a9954da2d3f2f7dc4fed",

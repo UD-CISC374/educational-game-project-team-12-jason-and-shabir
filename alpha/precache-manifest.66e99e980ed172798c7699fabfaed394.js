@@ -496,7 +496,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/start_screen_text.png"
   },
   {
-    "revision": "42af6644b7ec7fbd088fec732542ffce",
+    "revision": "4f02a0fa5e868e7da3b1d8bb578bbd35",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/text/battle.txt"
   },
   {

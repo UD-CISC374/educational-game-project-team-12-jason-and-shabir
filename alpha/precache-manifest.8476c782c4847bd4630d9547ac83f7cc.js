@@ -568,6 +568,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/text/start.txt"
   },
   {
+    "revision": "ca61d1b85095b9cceaa89a85da59f7c6",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/text/testScript.txt"
+  },
+  {
     "revision": "8b6486d09568de802f352fb75ad8cb99",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/ui/Open-Book.png"
   },
@@ -592,15 +596,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphafavicon.ico"
   },
   {
-    "revision": "e0a0ec25ac4a288ce756",
-    "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.main.3369bf1f04153d0b78d8.bundle.js"
+    "revision": "9825ea49a8c03042d053",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.main.f5fdf8a0ffa74e27a5aa.bundle.js"
   },
   {
     "revision": "7a5ecdcb0dcf6a639444",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.vendors.128e49865cdbb1432ba7.bundle.js"
   },
   {
-    "revision": "36c39e9903dcb529b8d9f7616a0216a3",
+    "revision": "a5cc904caeb6d8c3a53f797af9ddc286",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaindex.html"
   },
   {

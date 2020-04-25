@@ -24,6 +24,58 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/map.png"
   },
   {
+    "revision": "d4923d1205f8a42ff139e598f5930c24",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_1.png"
+  },
+  {
+    "revision": "9720cd989246b3c44ec4e2dde6752224",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_10.png"
+  },
+  {
+    "revision": "b2d17e085c20e14f4d60c2661ee6e30a",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_11.png"
+  },
+  {
+    "revision": "a984c40655d1ceec20f2c27fe7c2a1fb",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_12.png"
+  },
+  {
+    "revision": "9704c881c9f29dc8fa031bdf1143ef92",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_13.png"
+  },
+  {
+    "revision": "b702555c44e63120e258451d316dc8f6",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_2.png"
+  },
+  {
+    "revision": "3e462aeeaf78b2885630bd6f33d59503",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_3.png"
+  },
+  {
+    "revision": "a746ee64b8c872ab459c7a97d064661f",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_4.png"
+  },
+  {
+    "revision": "0ae30609addb10d27d8f7cec86db5193",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_5.png"
+  },
+  {
+    "revision": "102ee94a6a8a62b97df324bcea31d1e5",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_6.png"
+  },
+  {
+    "revision": "03450f3ac9eed4554dc09d58d67a4890",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_7.png"
+  },
+  {
+    "revision": "c6ac955da96bd9d982baff5843da2bb3",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_8.png"
+  },
+  {
+    "revision": "0fa66456d5c13d4ca4d54df970d48854",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/tutorial/tutorial_9.png"
+  },
+  {
     "revision": "76af2b7eb120661a29d7a7d49686fabe",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/backgrounds/water.jpg"
   },
@@ -560,11 +612,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/start_screen_text.png"
   },
   {
-    "revision": "85aaf1d54b645606648b675c2b77f994",
+    "revision": "d1a0b03fca617c1e8b631ba8d2927188",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/text/battle.txt"
   },
   {
-    "revision": "b009f6360944bb4c0792e2cd9562e8b9",
+    "revision": "35ff60fe9efcdbd02dc7839aef559dcd",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaassets/text/start.txt"
   },
   {
@@ -596,15 +648,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/alphafavicon.ico"
   },
   {
-    "revision": "9825ea49a8c03042d053",
-    "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.main.f5fdf8a0ffa74e27a5aa.bundle.js"
+    "revision": "f0568b0bb174c3233146",
+    "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.main.4e24f0a27d200d3d15ac.bundle.js"
   },
   {
     "revision": "7a5ecdcb0dcf6a639444",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphagen.vendors.128e49865cdbb1432ba7.bundle.js"
   },
   {
-    "revision": "a5cc904caeb6d8c3a53f797af9ddc286",
+    "revision": "7cba58037d3450f0c6e5f72f74de3972",
     "url": "/educational-game-project-team-12-jason-and-shabir/alphaindex.html"
   },
   {

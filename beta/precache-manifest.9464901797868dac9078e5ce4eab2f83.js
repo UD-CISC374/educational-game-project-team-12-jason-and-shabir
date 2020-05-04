@@ -848,15 +848,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/betafavicon.ico"
   },
   {
-    "revision": "cbe1760316eabd8d6126",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betagen.main.c44e704bcc23965aee94.bundle.js"
+    "revision": "c0f1a7b171f28957e53e",
+    "url": "/educational-game-project-team-12-jason-and-shabir/betagen.main.21f7a73ad79d3b97bd94.bundle.js"
   },
   {
     "revision": "5ba42c335574c00eab45",
     "url": "/educational-game-project-team-12-jason-and-shabir/betagen.vendors.380dc5289dd5a5748374.bundle.js"
   },
   {
-    "revision": "0951ceb5b9b08457f96754ee6f7f3f81",
+    "revision": "36c8c048e237e414100ca3afc8a83a8f",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaindex.html"
   },
   {

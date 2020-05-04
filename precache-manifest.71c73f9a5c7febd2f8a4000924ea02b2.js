@@ -40,8 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/backgrounds/tutorial/tutorial_12.png"
   },
   {
-    "revision": "9704c881c9f29dc8fa031bdf1143ef92",
+    "revision": "527dac8df2dfd3ce8532c676dbb958eb",
     "url": "assets/backgrounds/tutorial/tutorial_13.png"
+  },
+  {
+    "revision": "6a20ca0d2ada000cb775cdf3800bf735",
+    "url": "assets/backgrounds/tutorial/tutorial_14.png"
+  },
+  {
+    "revision": "9704c881c9f29dc8fa031bdf1143ef92",
+    "url": "assets/backgrounds/tutorial/tutorial_15.png"
   },
   {
     "revision": "b702555c44e63120e258451d316dc8f6",
@@ -800,7 +808,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/start_screen_text.png"
   },
   {
-    "revision": "d1a0b03fca617c1e8b631ba8d2927188",
+    "revision": "fc1811f0b9d26c1d1d1346c610d77822",
     "url": "assets/text/battle.txt"
   },
   {
@@ -840,12 +848,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "9c6f9217632d7b26325586aad95c93f1",
+    "revision": "d4098ea37f6b690e28df34ac0f49da07",
     "url": "index.html"
   },
   {
-    "revision": "9dbaf3915806e0b2e947",
-    "url": "main.cd0636cc712bc06ffad7.bundle.js"
+    "revision": "ba8a3794b9a5893f2fd7",
+    "url": "main.443b67c6827437f67e2b.bundle.js"
   },
   {
     "revision": "4cb13213f580a9954da2d3f2f7dc4fed",

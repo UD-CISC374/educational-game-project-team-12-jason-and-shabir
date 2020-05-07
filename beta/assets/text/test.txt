@@ -1,13 +1,13 @@
 if(this.warriorTurn)
 {
-  this.limitBurst("inferno");
+  // Do Something
 }
 if(this.mageTurn)
 {
-  this.limitBurst("freeze");
+  // Do Something
 }
 if(this.rangerTurn)
 {
-  this.limitBurst("torrent");
+  // Do Something
 }
 

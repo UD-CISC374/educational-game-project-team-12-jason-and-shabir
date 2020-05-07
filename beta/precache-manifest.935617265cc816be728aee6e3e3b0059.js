@@ -88,34 +88,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/backgrounds/water.jpg"
   },
   {
-    "revision": "74c63e173b8fd2c99c62ad9af73540ba",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/ATB_Meter.png"
-  },
-  {
-    "revision": "39df7c9460f5140e62172e108ead4a77",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Face_1.png"
-  },
-  {
-    "revision": "d01f783edf5db699b4296bc42724a495",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Face_2.png"
-  },
-  {
-    "revision": "b7aaa24f1bc7a80745f94dcfeacbcbe3",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Face_3.png"
-  },
-  {
-    "revision": "66cadd15b10af537e76d9ccf585cd552",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Face_4.png"
-  },
-  {
-    "revision": "1bdad8cff397b5976edc773f737be9a4",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Face_5.png"
-  },
-  {
-    "revision": "1e62b975597d4b7542ca4e54cce162b4",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/HP_Meter.png"
-  },
-  {
     "revision": "c411b4eb2ac2b47a3f10d387a71e4ecb",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/HP_Number-export.png"
   },
@@ -132,48 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout.png"
   },
   {
-    "revision": "819b6ef8aaa18e323ebc7a691a33457a",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Actor.png"
-  },
-  {
-    "revision": "82ed4ea5b3e4922b9249f0367c6b2501",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Command.png"
-  },
-  {
-    "revision": "d11a3ee402da4826619fc2af2ea4c4cf",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Enemy.png"
-  },
-  {
-    "revision": "5e0fb590369bea8b505f69aa847d4ad9",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Help.png"
-  },
-  {
-    "revision": "f30ca1c0af85a9cdfb0e8d60eab37f26",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Item.png"
-  },
-  {
-    "revision": "d49198ff1d65fef39ee1be4495c44393",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Party.png"
-  },
-  {
-    "revision": "2d87dcafbeb16c6ee4b0de3b560cd3ea",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Screen.png"
-  },
-  {
-    "revision": "f0a05442261d06062ec2a8c2b3e34c9f",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Layout_Skill.png"
-  },
-  {
     "revision": "ed68197760b0f3d75b058cfc0df53c1e",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/MP_Meter.png"
   },
   {
     "revision": "ca2c4b1124e8510dc18bf1a52d8d858d",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/MP_Number.png"
-  },
-  {
-    "revision": "5d07719971ee5aa03391d95b4e5ebf9c",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/TP_Meter.png"
   },
   {
     "revision": "ca5679a7066dc0c145f179948f376b8f",
@@ -184,16 +120,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/Turn.png"
   },
   {
+    "revision": "4e00d75d7196a6d672d3d058eaad1784",
+    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/enemy_gauge.png"
+  },
+  {
+    "revision": "5ea82e015ff63651c4d00f635ecfb7fe",
+    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/enemy_health.png"
+  },
+  {
+    "revision": "9788c7664b603ebf1f77ac1087dccc83",
+    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/enemy_health_back.png"
+  },
+  {
     "revision": "04743777236229935880c998a930cf4a",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/health_bar.png"
   },
   {
     "revision": "ab11d06dbb75c8bc9ddb385fe9580dcf",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/mp_bar.png"
-  },
-  {
-    "revision": "36a272cba65fe32f943fa8505e0d3c8a",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/battlehud/sprites.png"
   },
   {
     "revision": "854950ccbaae1829a2ff33b50ef6ae47",
@@ -928,7 +872,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/start_screen_text.png"
   },
   {
-    "revision": "243389be25a77d9a0e2e033ce4691ad6",
+    "revision": "1a463af452cfdf372e594be21db81cb5",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/text/autocomplete_list.txt"
   },
   {
@@ -940,7 +884,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/text/start.txt"
   },
   {
-    "revision": "91daa8486a79d1fc362969205a9e5cc4",
+    "revision": "d9ec19e46a4397423dde11b61c402e73",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaassets/text/test.txt"
   },
   {
@@ -972,15 +916,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/betafavicon.ico"
   },
   {
-    "revision": "674b0a2d79f280954d4a",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betagen.main.a40470abadd82f16971a.bundle.js"
+    "revision": "c426189cee238107c056",
+    "url": "/educational-game-project-team-12-jason-and-shabir/betagen.main.3a85b398b0c8254b3ae9.bundle.js"
   },
   {
-    "revision": "18d7dd9cdda59ded31c4",
-    "url": "/educational-game-project-team-12-jason-and-shabir/betagen.vendors.da44cdfd58809d30d870.bundle.js"
+    "revision": "1931028be456c0b34c38",
+    "url": "/educational-game-project-team-12-jason-and-shabir/betagen.vendors.362348ee1f7d1ef3bd7b.bundle.js"
   },
   {
-    "revision": "f04fb4688df83a75fa6e492923c8ee74",
+    "revision": "790d0ac85a2ed78d4e3ff2bbf3f7084a",
     "url": "/educational-game-project-team-12-jason-and-shabir/betaindex.html"
   },
   {

@@ -40,16 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/backgrounds/tutorial/tutorial_12.png"
   },
   {
-    "revision": "527dac8df2dfd3ce8532c676dbb958eb",
+    "revision": "2653efe8fb1819e9f83904e173b46e42",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/backgrounds/tutorial/tutorial_13.png"
   },
   {
-    "revision": "6a20ca0d2ada000cb775cdf3800bf735",
+    "revision": "527dac8df2dfd3ce8532c676dbb958eb",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/backgrounds/tutorial/tutorial_14.png"
   },
   {
-    "revision": "9704c881c9f29dc8fa031bdf1143ef92",
+    "revision": "6a20ca0d2ada000cb775cdf3800bf735",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/backgrounds/tutorial/tutorial_15.png"
+  },
+  {
+    "revision": "9704c881c9f29dc8fa031bdf1143ef92",
+    "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/backgrounds/tutorial/tutorial_16.png"
   },
   {
     "revision": "b702555c44e63120e258451d316dc8f6",
@@ -904,15 +908,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/finalfavicon.ico"
   },
   {
-    "revision": "a778968bfd1e756e90fb",
-    "url": "/educational-game-project-team-12-jason-and-shabir/finalgen.main.100812421475f8dcd889.bundle.js"
+    "revision": "964a47f75a45ea332085",
+    "url": "/educational-game-project-team-12-jason-and-shabir/finalgen.main.cb754ca25443ce7b604a.bundle.js"
   },
   {
     "revision": "1931028be456c0b34c38",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalgen.vendors.362348ee1f7d1ef3bd7b.bundle.js"
   },
   {
-    "revision": "5d7888525725e8d2d98ea30e54d0a89d",
+    "revision": "259d8c837b75342f4e3cd7730d95a7ff",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalindex.html"
   },
   {

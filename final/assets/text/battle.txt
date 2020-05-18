@@ -1,0 +1,91 @@
+Available Actions:
+
+~ this.attack(target); ~
+standard attack on the specified target (scroll to view target list).
+
+~ this.cast(spell, target); ~
+cast the specified spell on the specified target (scroll to view spell lists).
+
+~ this.limitBurst(name); ~
+use the specified limit burst
+
+Available Variables:
+
+~ this.hp ~
+returns the current hero's current hp
+
+~ this.mp ~
+returns the current hero's current mp
+
+~ this.limitBurstReady ~
+returns true or false if the current hero can use a limit burst
+
+~ this.warriorTurn ~
+returns true or false if it is your warrior's turn
+
+~ this.mageTurn ~
+returns true or false if it is your mage's turn
+
+~ this.rangerTurn ~
+returns true or false if it is your ranger's turn
+
+~ this.turn ~
+returns the current turn number
+
+~ this.warriorIsAlive ~
+returns true or false if your warrior is alive
+
+~ this.mageIsAlive ~
+returns true or false if your mage is alive
+
+~ this.rangerIsAlive ~
+returns true or false if your ranger is alive
+
+~ this.warriorHp ~
+returns your warrior's current hp
+
+~ this.mageHp ~
+returns your mage's current hp
+
+~ this.rangerHp ~
+returns your ranger's current hp
+
+Available Spells:
+
+<<< Black Magic >>>
+"earth" - earth magic
+"dark" - dark magic
+"fire" - fire magic
+"lighting" - lightning magic
+"water" - water magic
+"wind" - wind magic
+
+<<< White Magic >>>
+"cure" - restore hp
+"protect" - increase defense
+"remedy" - remove status effect
+"raise" - ressurect fallen ally
+
+<<< Limit Bursts >>>
+
+Warrior:
+"inferno" - fire damage to all enemies
+
+Mage:
+"benediction" - Heal all allies 100% HP
+"resurrection" - Revive all KOed allies
+
+Ranger:
+"tempest" - wind damage to all enemies
+
+Available Targets:
+
+"warrior name"
+"mage name"
+"ranger name"
+"Orc Warrior"
+"Orc Mage"
+"Orc Ranger"
+"random" - chooses a random enemy
+
+

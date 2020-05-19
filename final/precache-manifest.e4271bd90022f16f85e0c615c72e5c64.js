@@ -788,7 +788,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/Download12296.png"
   },
   {
-    "revision": "2f6c49ad5b0398202a8ed4a64e09a197",
+    "revision": "94a159d2b9e87eac1fd1c1f2f5edfb5c",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/mage.png"
   },
   {
@@ -828,16 +828,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/orcs/orc_warrior_death.png"
   },
   {
-    "revision": "8e5730537b71b45f419f091c05352fd6",
+    "revision": "571ddd238987776756b3ce97fb6a6551",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/player/mage_battle.png"
   },
   {
-    "revision": "24d0cde481949134a8b0adb8ec79a05e",
+    "revision": "d697d26c948b94f01bfe95d1f2a5f547",
+    "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/player/mage_battle2.png"
+  },
+  {
+    "revision": "9106f4d14362c7616f4c17109bd18a4b",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/player/mage_cast.png"
   },
   {
-    "revision": "3693998d38371a04699901083ddc1618",
+    "revision": "83564fe4d70ca741d1086ae20a1b2ba8",
+    "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/player/mage_cast2.png"
+  },
+  {
+    "revision": "362de453aa8b295d81f20254f1908d8f",
     "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/player/mage_death.png"
+  },
+  {
+    "revision": "6b3e302275b16811fac9ae05515fa83c",
+    "url": "/educational-game-project-team-12-jason-and-shabir/finalassets/sprites/player/mage_death2.png"
   },
   {
     "revision": "8e9c7a519e0e5f4d16f50b4a530035da",
